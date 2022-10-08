@@ -47,7 +47,7 @@ namespace ApiCall
                 
                     //Console.WriteLine(resultRead);
                     var c = JsonConvert.DeserializeObject<Car>(resultRead);
-                    Console.WriteLine(c.Results);
+                    //Console.WriteLine(c.Results);
                     foreach(var i in c.Results){
                         Console.WriteLine("--------");
                         Console.WriteLine("Model name: " + i.Model_Name);
