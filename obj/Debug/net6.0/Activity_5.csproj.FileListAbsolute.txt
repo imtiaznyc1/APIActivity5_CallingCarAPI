@@ -1,0 +1,17 @@
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.csproj.AssemblyReference.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.AssemblyInfoInputs.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.AssemblyInfo.cs
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.csproj.CoreCompileInputs.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Activity_5
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Activity_5.deps.json
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Activity_5.runtimeconfig.json
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Activity_5.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Activity_5.pdb
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.csproj.CopyComplete
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/refint/Activity_5.dll
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.pdb
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/Activity_5.genruntimeconfig.cache
+/Users/imtiazrahman/Desktop/Intro_To_API/Activity_5/obj/Debug/net6.0/ref/Activity_5.dll
